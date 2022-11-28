@@ -1,5 +1,13 @@
-# python_template
+# Python Template
 A simple template project for my python scripts.
+
+## Project Structure
+* bin - shell wrappers
+* etc - configuration files
+* my_app1 - module source code
+* tests - test cases
+* setup.py - the main setup script
+* requirements.txt - dependencies
 
 ## Create a virtual environment
 ```
